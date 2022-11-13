@@ -35,6 +35,18 @@ Nothing much to write about here.
 - I can design a 3D model or PCB card.
 - My hand work is good.
 
+### Design
+
+I know how to use some special design programs.
+
+- Adobe Photoshop
+- Adobe Illustrator
+- Corel Draw
+- Canva
+- Fusion 360
+- AutoCAD
+- EAGLE
+
 ### Projects
 
 Time to talk about my favorite.
