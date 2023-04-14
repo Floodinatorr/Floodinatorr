@@ -51,12 +51,6 @@ I know how to use some special design programs.
 
 Time to talk about my favorite.
 
-#### [Yottalogy](https://www.yottalogy.com)
-
-That's a website for learn hardware or software. You can learn if you don't know anything about H/S. So, if you say I know H/S or all you can examine advanced explained for improve yourself.
-
-Support: iletisim@yottalogy.com
-
 #### Peta
 
 Peta is a robot to explore space on mars. Although it has a different feature (hydrogen fuel system) than other Mars robots, it is a project that is being worked on.
